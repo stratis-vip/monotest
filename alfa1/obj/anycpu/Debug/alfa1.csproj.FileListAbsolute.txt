@@ -1,0 +1,6 @@
+/Users/stratis/Projects/alfa1/alfa1/bin/Debug/alfa1.exe
+/Users/stratis/Projects/alfa1/alfa1/bin/Debug/alfa1.pdb
+/Users/stratis/Projects/alfa1/alfa1/obj/anycpu/Debug/alfa1.csprojAssemblyReference.cache
+/Users/stratis/Projects/alfa1/alfa1/obj/anycpu/Debug/alfa1.csproj.CoreCompileInputs.cache
+/Users/stratis/Projects/alfa1/alfa1/obj/anycpu/Debug/alfa1.exe
+/Users/stratis/Projects/alfa1/alfa1/obj/anycpu/Debug/alfa1.pdb

@@ -1,7 +1,7 @@
 ﻿using System;
 using Gtk;
 
-namespace alfa
+namespace alfa1
 {
     class MainClass
     {

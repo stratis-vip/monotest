@@ -1,6 +1,0 @@
-/home/stratis/Projects/alfa/alfa/bin/Debug/alfa.exe
-/home/stratis/Projects/alfa/alfa/bin/Debug/alfa.pdb
-/home/stratis/Projects/alfa/alfa/obj/x86/Debug/alfa.csprojAssemblyReference.cache
-/home/stratis/Projects/alfa/alfa/obj/x86/Debug/alfa.csproj.CoreCompileInputs.cache
-/home/stratis/Projects/alfa/alfa/obj/x86/Debug/alfa.exe
-/home/stratis/Projects/alfa/alfa/obj/x86/Debug/alfa.pdb
